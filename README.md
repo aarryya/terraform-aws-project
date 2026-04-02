@@ -156,18 +156,6 @@ terraform apply
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of:)
-
-* Terraform Apply
-* VPC
-* ECS Running
-* Load Balancer
-* Final Output
-
----
-
 ## 🔐 Security Note
 
 AWS credentials were **not uploaded to GitHub** and handled securely.
